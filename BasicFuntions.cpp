@@ -13,7 +13,7 @@ void GOT()
 
 void Bahubali()
 {
-    cout<<"Bhau! Bahu!"<<endl;
+    cout<<"Bahu! Bahu!"<<endl;
     GOT();
     return;
 }
